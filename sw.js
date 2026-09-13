@@ -1,6 +1,6 @@
-// Service worker — Mon Jardin MAVA
+// Service worker — Patrimoine MAVA
 // Met l'app en cache pour qu'elle fonctionne hors-ligne après le premier chargement.
-const CACHE_NAME = 'mava-jardin-v1';
+const CACHE_NAME = 'mava-patrimoine-v1';
 const ASSETS = [
   './',
   './index.html',
