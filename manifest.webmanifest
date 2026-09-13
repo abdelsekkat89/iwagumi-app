@@ -1,0 +1,16 @@
+{
+  "name": "Mon Jardin MAVA",
+  "short_name": "MAVA Jardin",
+  "description": "L'app compagnon MAVA / IWAGUMI : rappels d'entretien, journal de culture et succès pour vos tours Hydro, Slim, Olla et Compost.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#1f5c2e",
+  "orientation": "portrait",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
